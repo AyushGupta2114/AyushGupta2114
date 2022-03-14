@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
+![MasterHead](https://thumbs.gfycat.com/DenseFelineBallpython-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Ayush Kr. Gupta</h1>
 <h3 align="center">विकास महत्वपूर्ण है</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
