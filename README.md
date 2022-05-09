@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **on My Portfolio**
 
-- 🌱 I’m currently learning **SQL, MongoDB ,FrontEnd Developemt**
+- 🌱 I’m currently learning **Python,C,SQL, MongoDB ,FrontEnd Developemt**
 
 - 👯 I’m looking to collaborate with **Learners to Develop Something**
 
