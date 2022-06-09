@@ -25,7 +25,6 @@
 <a href="https://linkedin.com/in/ayush-gupta2205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-gupta2205" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ag8815" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="ayush-gupta2205" height="30" width="40" /></a>
  <a href="https://www.instagram.com/__aslan__2205/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="ayush-gupta2205" height="40" width="40" /></a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsdGCwvnFFpTvFRjLLkTFgZzhQgkdgzpJPqbxFSXzWWpjcGHCbjBGnzhXMqnBnxKJwBXxfJV" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="ayush-gupta2205" height="32" width="42" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
