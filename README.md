@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="370" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **on My own portfolio**
+- 🔭 I’m currently working on My own portfolio
 
 - 🌱 I’m currently learning **SQL,MongoDB,FrontEnd Developemt**
 
 - 👯 I’m looking to collaborate with **Learners to Develop Something**
 
-- 🤝 I’m looking for help with **Bootstrap 4**
+- 🤝 I’m looking for help with **React js**
 
-- 👨‍💻 All of my projects are available at [Still in Process]
+- 👨‍💻 All of my projects are available at https://ayushkr.vercel.app/
 
 - 💬 Ask me about **Python, C++,UI/UX design, Sports⚽🏀**
 
