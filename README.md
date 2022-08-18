@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **SQL,MongoDB,FrontEnd Developemt**
 
-- 👯 I’m looking to collaborate with **Learners to Develop Something**
+- 🙋‍♂️🙇‍♂️ I’m looking to collaborate with **Learners to Develop Something**
 
 - 🤝 I’m looking for help with **React js**
 
