@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on My own portfolio
 
-- 🌱 I’m currently learning **SQL,MongoDB,FrontEnd Developemt**
+- 🌱 I’m currently learning **SQL,MongoDB,FrontEnd Development**
 
 - 🙋‍♂️🙇‍♂️ I’m looking to collaborate with **Learners to Develop Something**
 
