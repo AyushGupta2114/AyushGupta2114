@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **React js**
 
-- 👨‍💻 All of my projects are available at [Protfolio](https://ayushkr.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ayushkr.vercel.app/)
 
 - 💬 Ask me about **Python, C++,UI/UX design, Sports⚽🏀**
 
