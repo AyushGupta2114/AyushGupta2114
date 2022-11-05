@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I don't like to sit idle 😃**
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=blazingfire03&label=Profile%20views&color=0e75b6&style=flat" alt="AyushGupta2114" /> </p>
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushGupta2114&label=Profile%20views&color=0e75b6&style=flat" alt="AyushGupta2114" /> </p>
  
 
 <h3 align="left">Connect with me:</h3>
