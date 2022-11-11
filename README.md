@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋 I'm Ayush Kumar Gupta</h1>
 <h3 align="center">विकास महत्वपूर्ण है</h3>
-<img align="right" alt="Coding" width="370" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
+<img align="right" alt="Coding" width="470" src="https://user-images.githubusercontent.com/94870982/201266942-9c5e0a3e-94fc-4891-888d-5b5e15ef3e2f.svg">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on My own portfolio
