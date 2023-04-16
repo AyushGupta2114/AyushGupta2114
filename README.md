@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working on My own portfolio
 
-- 🌱 I’m currently learning **Swift,Android Development,FrontEnd Development**
+- 🌱 I’m currently learning **Data analytics,FrontEnd Development**
 
-- 🙋‍♂️🙇‍♂️ I’m looking to collaborate with **Learners to Develop Something**
+- 🙋‍♂️🙇‍♂️ I’m looking to collaborate with **Great-mind person**
 
-- 🤝 I’m looking for help with **React js**
+- 🤝 I’m looking for help with **Machine learning**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://ayushkr.vercel.app/)
 
-- 💬 Ask me about **Python, C++,UI/UX design, Sports⚽🏀**
+- 💬 Ask me about **AI/ML,Tableau,Python, C++,UI/UX design, Sports⚽🏀**
 
 - 📫 How to reach me **ayushgupta220305@gmail.com**
 
