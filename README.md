@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/94870982/201266942-9c5e0a3e-94fc-4891-888d-5b5e15ef3e2f.svg">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on My own portfolio
+- 🔭 I’m currently working on NoSQL DataBase
 
-- 🌱 I’m currently learning **Data analytics,FrontEnd Development**
+- 🌱 I’m currently learning **Data analytics,Data Engineering**
 
 - 🙋‍♂️🙇‍♂️ I’m looking to collaborate with **Great-mind person**
 
 - 🤝 I’m looking for help with **Machine learning**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://ayushkr.vercel.app/)
+- 👨‍💻 All of my projects are available at Github
 
 - 💬 Ask me about **AI/ML,Tableau,Python, C++,UI/UX design, Sports⚽🏀**
 
