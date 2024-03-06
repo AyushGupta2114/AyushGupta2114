@@ -40,6 +40,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta2114&" alt="ayushgupta2114" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/AyushGupta2114?theme=unicorn)
-
 ![](./profile-3d-contrib/profile-night-green.svg)
